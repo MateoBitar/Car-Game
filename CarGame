@@ -61,7 +61,7 @@ def game_loop():
     player_y = HEIGHT - 120  
 
     enemies = []  
-    enemy_speed = level  
+    enemy_speed = level  + 5
     score = 0  
     bullets_fired = 0  
     max_bullets = 10  
