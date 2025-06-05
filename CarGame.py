@@ -1,4 +1,4 @@
-# Python Game
+# Python Car Game
 import pygame
 import random
 
